@@ -27,7 +27,7 @@ export function App() {
   const getShoeImage = (colorId: string) => {
     switch (colorId) {
       case 'noir-black':
-        return '/images/ASTI S1P NO.png';
+        return '../images/ASTI S1P NB.png';
       case 'navy-grey':
         return '/images/ASTI S1P GB.png';
       case 'beige':
