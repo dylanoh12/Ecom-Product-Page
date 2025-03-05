@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "type": "module",
-  "homepage": "https://github.com/dylanoh12/Ecom-Product-Page",
+  "homepage": "https://dylanoh12.github.io/Ecom-Product-Page",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
