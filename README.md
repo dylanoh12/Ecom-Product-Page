@@ -13,7 +13,4 @@ magnifying glass can be used to zoom in on the product.
 - **Styling:** Tailwind CSS
 - **Icons:** Lucide React
 - **Development Environment:** Node.js
-## Getting Started
 
-1. Run `npm install`
-2. Run `npm run dev`
