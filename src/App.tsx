@@ -31,7 +31,7 @@ export function App() {
       case 'navy-grey':
         return '/Ecom-Product-Page/images/ASTI S1P GB.png';
       case 'beige':
-        return '/Ecom-product-page/images/ASTI S1P BE.png';
+        return '/Ecom-Product-Page/images/ASTI S1P BE.png';
       default:
         return '/Ecom-product-page/images/ASTI S1P NO.png';
     }
