@@ -3,8 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/Ecom-Product-Page/',
-  build: {
-    assetsDir: 'assets',
-  }
+  base: '/Ecom-Product-Page/'
 })

@@ -27,13 +27,13 @@ export function App() {
   const getShoeImage = (colorId: string) => {
     switch (colorId) {
       case 'noir-black':
-        return '../images/ASTI S1P NB.png';
+        return '/Ecom-Product-Page/images/ASTI S1P NO.png';
       case 'navy-grey':
-        return '/images/ASTI S1P GB.png';
+        return '/Ecom-Product-Page/images/ASTI S1P GB.png';
       case 'beige':
-        return '/images/ASTI S1P BE.png';
+        return '/Ecom-product-page/images/ASTI S1P BE.png';
       default:
-        return '/images/ASTI S1P GB.png';
+        return '/Ecom-product-page/images/ASTI S1P NO.png';
     }
   };
 
